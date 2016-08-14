@@ -9,7 +9,7 @@ Orgullosamente desde Lima, Perú.
 ## To-do
 Siempre en mejoras constantes, iterar, iterar.
 
-- Mapa de espacios de trabajo (coworkings spaces) en Lima. 
+- Mapa de espacios de trabajo (Coworking Spaces) en Lima. 
 - Calendario de eventos de emprendimiento y negocios. 
 - Calendario de eventos de desarrollo (developers events)
 - A good design.. 
